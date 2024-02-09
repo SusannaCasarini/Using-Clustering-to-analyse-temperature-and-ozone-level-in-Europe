@@ -1,4 +1,4 @@
-# Using-Clustering-to-analyse-temperature-and-ozone-level-in-Europe
+# Using-Clustering-to-analyse-temperature-and-ozone-level-in-Europe (University project)
 Hierarchical clustering analysis applied to temperature and ozone data
 
 
